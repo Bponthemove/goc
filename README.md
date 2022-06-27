@@ -1,3 +1,8 @@
+Simple store app to practice with Redux toolkit, React and Stripe checkout. Sample data fetched from S3 bucket.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
